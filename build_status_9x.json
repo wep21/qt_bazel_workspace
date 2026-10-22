@@ -1,0 +1,231 @@
+{
+  "commit": "0e08788a00c4e329b9f7ca06f04d2665df1ac4cd",
+  "run": "https://github.com/asymingt/qt_bazel_workspace/actions/runs/39605591437",
+  "bazel": "9.x",
+  "platforms": [
+    "linux-amd64",
+    "linux-arm64",
+    "darwin-amd64",
+    "darwin-arm64",
+    "windows-amd64",
+    "windows-arm64"
+  ],
+  "cells": [
+    {
+      "host": "linux-amd64",
+      "target": "linux-amd64",
+      "kind": "native",
+      "outcome": "success"
+    },
+    {
+      "host": "linux-amd64",
+      "target": "linux-arm64",
+      "kind": "cross",
+      "outcome": "success"
+    },
+    {
+      "host": "linux-amd64",
+      "target": "darwin-amd64",
+      "kind": "cross",
+      "outcome": "success"
+    },
+    {
+      "host": "linux-amd64",
+      "target": "darwin-arm64",
+      "kind": "cross",
+      "outcome": "success"
+    },
+    {
+      "host": "linux-amd64",
+      "target": "windows-amd64",
+      "kind": "cross",
+      "outcome": "success"
+    },
+    {
+      "host": "linux-amd64",
+      "target": "windows-arm64",
+      "kind": "cross",
+      "outcome": "success"
+    },
+    {
+      "host": "linux-arm64",
+      "target": "linux-amd64",
+      "kind": "cross",
+      "outcome": "success"
+    },
+    {
+      "host": "linux-arm64",
+      "target": "linux-arm64",
+      "kind": "native",
+      "outcome": "success"
+    },
+    {
+      "host": "linux-arm64",
+      "target": "darwin-amd64",
+      "kind": "cross",
+      "outcome": "success"
+    },
+    {
+      "host": "linux-arm64",
+      "target": "darwin-arm64",
+      "kind": "cross",
+      "outcome": "success"
+    },
+    {
+      "host": "linux-arm64",
+      "target": "windows-amd64",
+      "kind": "cross",
+      "outcome": "success"
+    },
+    {
+      "host": "linux-arm64",
+      "target": "windows-arm64",
+      "kind": "cross",
+      "outcome": "success"
+    },
+    {
+      "host": "darwin-amd64",
+      "target": "linux-amd64",
+      "kind": "cross",
+      "outcome": "cancelled"
+    },
+    {
+      "host": "darwin-amd64",
+      "target": "linux-arm64",
+      "kind": "cross",
+      "outcome": "success"
+    },
+    {
+      "host": "darwin-amd64",
+      "target": "darwin-amd64",
+      "kind": "native",
+      "outcome": "success"
+    },
+    {
+      "host": "darwin-amd64",
+      "target": "darwin-arm64",
+      "kind": "cross",
+      "outcome": "success"
+    },
+    {
+      "host": "darwin-amd64",
+      "target": "windows-amd64",
+      "kind": "cross",
+      "outcome": "success"
+    },
+    {
+      "host": "darwin-amd64",
+      "target": "windows-arm64",
+      "kind": "cross",
+      "outcome": "success"
+    },
+    {
+      "host": "darwin-arm64",
+      "target": "linux-amd64",
+      "kind": "cross",
+      "outcome": "success"
+    },
+    {
+      "host": "darwin-arm64",
+      "target": "linux-arm64",
+      "kind": "cross",
+      "outcome": "success"
+    },
+    {
+      "host": "darwin-arm64",
+      "target": "darwin-amd64",
+      "kind": "cross",
+      "outcome": "success"
+    },
+    {
+      "host": "darwin-arm64",
+      "target": "darwin-arm64",
+      "kind": "native",
+      "outcome": "success"
+    },
+    {
+      "host": "darwin-arm64",
+      "target": "windows-amd64",
+      "kind": "cross",
+      "outcome": "success"
+    },
+    {
+      "host": "darwin-arm64",
+      "target": "windows-arm64",
+      "kind": "cross",
+      "outcome": "success"
+    },
+    {
+      "host": "windows-amd64",
+      "target": "linux-amd64",
+      "kind": "cross",
+      "outcome": "success"
+    },
+    {
+      "host": "windows-amd64",
+      "target": "linux-arm64",
+      "kind": "cross",
+      "outcome": "success"
+    },
+    {
+      "host": "windows-amd64",
+      "target": "darwin-amd64",
+      "kind": "cross",
+      "outcome": "success"
+    },
+    {
+      "host": "windows-amd64",
+      "target": "darwin-arm64",
+      "kind": "cross",
+      "outcome": "success"
+    },
+    {
+      "host": "windows-amd64",
+      "target": "windows-amd64",
+      "kind": "native",
+      "outcome": "success"
+    },
+    {
+      "host": "windows-amd64",
+      "target": "windows-arm64",
+      "kind": "cross",
+      "outcome": "success"
+    },
+    {
+      "host": "windows-arm64",
+      "target": "linux-amd64",
+      "kind": "cross",
+      "outcome": "success"
+    },
+    {
+      "host": "windows-arm64",
+      "target": "linux-arm64",
+      "kind": "cross",
+      "outcome": "success"
+    },
+    {
+      "host": "windows-arm64",
+      "target": "darwin-amd64",
+      "kind": "cross",
+      "outcome": "success"
+    },
+    {
+      "host": "windows-arm64",
+      "target": "darwin-arm64",
+      "kind": "cross",
+      "outcome": "failure"
+    },
+    {
+      "host": "windows-arm64",
+      "target": "windows-amd64",
+      "kind": "cross",
+      "outcome": "success"
+    },
+    {
+      "host": "windows-arm64",
+      "target": "windows-arm64",
+      "kind": "native",
+      "outcome": "success"
+    }
+  ]
+}
